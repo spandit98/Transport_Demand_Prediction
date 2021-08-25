@@ -1,4 +1,4 @@
-# Description_of_the_problem
+## Description_of_the_problem
 
 This challenge asks you to build a model that predicts the number of seats that Mobiticket can expect to sell for each ride, i.e. for a specific route on a specific date and time. There are 14 routes in this dataset. 
 
